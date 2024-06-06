@@ -48,7 +48,9 @@
 - [에어비앤비](https://lnkd.in/gabra2mP)
 - [넷플릭스](https://lnkd.in/gshRZfN6)
 - [MS](https://lnkd.in/gtBnKFjq)
-  
+
+출처 - 네이버의 이장근님
+
 ## 딥러닝
 ## 대형 모델
 ## 3차원 비전
