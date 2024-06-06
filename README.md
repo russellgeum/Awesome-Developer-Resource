@@ -54,3 +54,9 @@
 ## 딥러닝
 ## 대형 모델
 ## 3차원 비전
+
+## 교육 및 강의 자료
+- [LLM-Courses](https://github.com/mlabonne/llm-course)
+- [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- [Quant](https://github.com/wilsonfreitas/awesome-quant)
+- [Quant-Machine-Learning](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
