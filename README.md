@@ -8,7 +8,7 @@
 - [카카오페이](https://tech.kakaopay.com/)
 - [카카오뱅크](https://tech.kakaobank.com/)
 - [카카오헤어샵](https://brunch.co.kr/@purpledev)
-- [SKT](https://devocean.sk.com/)
+- [SKT Devocean](https://devocean.sk.com/)
 - [NCSOFT](https://ncsoft.github.io/ncresearch/blogs/)
 - [하이퍼커넥트](https://hyperconnect.github.io/)
 - [삼성](https://techblog.samsung.com/blog)
@@ -49,11 +49,25 @@
 
 출처 - 네이버의 이장근님
 
-## 딥러닝
-## 대형 모델
-## 3차원 비전
+## ML/AI: Deep Learning
+- [Awesome Model Pruning](https://github.com/he-y/Awesome-Pruning)
+- [Awesome Model Pruning, On-going](https://github.com/ghimiredhikura/Awasome-Pruning)
+- [Awesome Model Quantization](https://github.com/htqin/awesome-model-quantization#2023)
+- [Awesome Model Quantization, On-going](https://github.com/Zhen-Dong/Awesome-Quantization-Papers#transformer-based-models)
 
-## 교육 및 강의 자료
+## ML/AI: Large-scale Deep Learning
+- [Awesome Large Language Models](https://github.com/Hannibal046/Awesome-LLM)
+- [Awesome Large Language Models Evaluation](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)
+- [Awesome Large Language Models Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
+- [Awesome Efficient Large Language Models](https://github.com/horseee/Awesome-Efficient-LLM)
+- [Awesome Multimodal Awesome Large Language Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [Awesome Efficient Multimodal Large Language Models](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)
+  
+## ML/AI: 3D Vision
+- [Neural Radiance Field](https://github.com/Vincentqyw/cv-arxiv-daily#NeRF)
+- [3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+
+## MLAI: Education/Courses
 - [LLM-Courses](https://github.com/mlabonne/llm-course)
 - [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Quant](https://github.com/wilsonfreitas/awesome-quant)
